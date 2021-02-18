@@ -1,2 +1,0 @@
-print (2+2)*2;
-# paren has higher precedence than multiplication, giving 8 rather than 6.

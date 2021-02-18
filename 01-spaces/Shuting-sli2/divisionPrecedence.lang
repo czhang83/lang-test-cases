@@ -1,3 +1,0 @@
-print (6+2) / (4-2);
-# gives 4
-# paren has higher precedence than division

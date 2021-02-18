@@ -1,2 +1,0 @@
-print 17     /   2;
-# int division should give 8 rather than 8.5
