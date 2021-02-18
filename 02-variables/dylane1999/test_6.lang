@@ -1,3 +1,0 @@
-var foo = 5+5*2; print foo; var bar = foo; print bar;
-
-# test for the ability to have one variable equal to another and print 

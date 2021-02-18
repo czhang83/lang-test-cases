@@ -1,1 +1,0 @@
-(sequence (declare foo (+ 5 (* 5 2))))

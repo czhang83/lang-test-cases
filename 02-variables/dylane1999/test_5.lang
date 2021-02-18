@@ -1,3 +1,0 @@
-var foo = 5+5*2; print foo; foo = 5; print foo;
-
-# test for ability to redefine variabes and print correct output
