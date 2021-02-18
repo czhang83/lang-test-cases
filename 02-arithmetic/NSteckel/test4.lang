@@ -1,3 +1,2 @@
 # check subtraction with larger numbers to yield a negative
-# prints -64
 print 42-100-6;
