@@ -1,3 +1,0 @@
-# testing multiple operations in parentheses
-# prints 17
-4+5-(5-6)+7
