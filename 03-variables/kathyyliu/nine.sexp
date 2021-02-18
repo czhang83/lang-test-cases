@@ -1,1 +1,0 @@
-(sequence (declare num1 1) (declare num2 (lookup num1)) (print (lookup num2)) (assign (varloc num1) 0) (print (lookup num2)))

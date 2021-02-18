@@ -1,4 +1,0 @@
-var num = 33;
-print num;
-num = (9 + 1) * 2;
-print num;
