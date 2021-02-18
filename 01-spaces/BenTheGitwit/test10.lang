@@ -1,2 +1,0 @@
-# Tests to make sure parenthetical expressions are returning integers
-print ((1));

@@ -1,2 +1,0 @@
-# Tests whether trees branch in the right order
-print 1-2-3 + 10/5/2;
