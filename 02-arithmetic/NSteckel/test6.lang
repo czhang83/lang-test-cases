@@ -1,3 +1,0 @@
-# test multiplying several small and large numbers
-# prints 27984
-print 3*44*106*2;
