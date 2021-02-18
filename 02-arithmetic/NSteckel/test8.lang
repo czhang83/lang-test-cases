@@ -1,3 +1,0 @@
-# test dividing zero
-# prints 0
-print 0/33;
